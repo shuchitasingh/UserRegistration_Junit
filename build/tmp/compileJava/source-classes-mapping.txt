@@ -1,2 +1,2 @@
-com/bridgelabz/userRegistration.java
- com.bridgelabz.userRegistration
+com/bridgelabz/UserValidator.java
+ com.bridgelabz.UserValidator
